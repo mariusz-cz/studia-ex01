@@ -1,0 +1,16 @@
+Stworzyc repozytorium w GITHUB lub innym analogicznie do cwiczen i/lub zsynchronizowac te, ktore sobie Panswto zycza
+Stworzyc w Azure web app -z co najmniej 2 funkcjonalnosciami - tematyka dowolna
+Wyhostowac przez przegladarke web app
+Dodac IAM (Identity & Access amnagement) - na poziomie albo usera albo na poziomie uslugi/appki
+
+
+
+
+Pracujecie zespolowo- ale to nie oznacza, ze tylko jedn aosoba tworzy zadanie w ciagloscii -kazdy z Panstwa tworzy,. Cwiczenie potrwa do 12:20 - indywidulanie wrzucanie te etapy, ktore stworzycie indywidualnie poprzez prace zespolowai zespol o 12:20 preznetuje wlasne roziwazania. Im bardziej rozbudowana appka - tym wyzsza ocena
+
+
+[11:09] Agnieszka Mietz-Blijleven
+ale mozecie Panstwo skorzystac z rozwiazan przekazanych Wam 2 tygodnie temy w html/css/js czy z przykladow Python
+[11:10] Agnieszka Mietz-Blijleven
+luz z wczorajszych cwiczen -jako referencja, ale nie jako przekopiowanie poprzednich przykladow  - cwiczymy projektowanie i tworzenie i wdrazanie web app jako czesci technologii internetowych
+
